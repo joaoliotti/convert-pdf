@@ -1,0 +1,17 @@
+{
+  "name": "tranform-pdf-to-txt",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "node src/compararArquivos.js"
+  },
+  "keywords": [],
+  "author": "João Liotti",
+  "license": "ISC",
+  "description": "Tranformar PDF em TXT",
+  "dependencies": {
+    "pdf-parse": "^1.1.1",
+    "tesseract.js": "^6.0.1"
+  }
+}
