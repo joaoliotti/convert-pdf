@@ -44,5 +44,5 @@ function converterPNG(caminhoPNG, caminhoTXT) {
 }
 
 // Exemplo de uso:
-converterPDF('./medidas.pdf', './saida_pdf.txt');
-converterPNG('./image.png', './saida_imagem.txt');
+converterPDF('./print.pdf', './saida_pdf.txt');
+converterPNG('./teste.jpg', './saida_imagem.txt');
